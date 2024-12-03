@@ -1,0 +1,1 @@
+here you can feed and actual memory address to CMPM 

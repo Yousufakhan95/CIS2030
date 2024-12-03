@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "b92479c4ed2dcc8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a695b728daf709ba",
+        "type": "tabs",
+        "dimension": 53.28162291169451,
+        "children": [
+          {
+            "id": "75b438582dea1377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "control/conditional branch's/BCC (branch on condition cc).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BCC (branch on condition cc)"
+            }
+          },
+          {
+            "id": "fdee8d6d558acd82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "addressing modes/immediate addressing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "immediate addressing"
+            }
+          },
+          {
+            "id": "8856285c01f1c583",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c69c470ce3b6d83c",
+        "type": "split",
+        "dimension": 46.71837708830549,
+        "children": [
+          {
+            "id": "1af32769e68c661b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "afcf980f18e53b56",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "control (branchs).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "control (branchs)"
+                }
+              },
+              {
+                "id": "9a69f075a3e8e115",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "control/conditional branch's/CMP (compare).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "CMP (compare)"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "0ebdec1bdd289c6d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "591558eb8153f86e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "916c5b57eb9bf347",
+    "type": "split",
+    "children": [
+      {
+        "id": "416c3be7863ff6e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51209c2fa2acd6c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "24e1c46c5ffbd64e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a2d977d976bb0cbf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b1099db5e2316f06",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cc8d21409ac3858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a0f57288c893a2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2dced4f9b3d23c52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e041c4d5e86fea18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "835f633908c8cfa4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9a69f075a3e8e115",
+  "lastOpenFiles": [
+    "control/conditional branch's/conditional branch's.md",
+    "control (branchs).md",
+    "control/conditional branch's/BCC (branch on condition cc).md",
+    "control/Pasted image 20241022203808.png",
+    "control/implementations.md",
+    "control/conditional branch instruction for unsigned numbers.md",
+    "control/conditional branch instruction for signed numbers.md",
+    "control/Conditional branch instruction depending on a single CCR flag.md",
+    "control/unconditional branch's/Pasted image 20241025191001.png",
+    "control/unconditional branch's/unconditional branch's.md",
+    "number systems/2's complement.md",
+    "addressing modes.md",
+    "addressing modes/immediate addressing.md",
+    "CIS 2030.md",
+    "control/conditional branch's/BCC/conditional branch instruction for signed numbers/BGE.md",
+    "addressing modes/absolute long.md",
+    "addressing modes/indirect addressing.md",
+    "control/conditional branch's/CMP (compare).md",
+    "addressing modes/absolute short.md",
+    "addressing modes/data register direct.md",
+    "control/unconditional branch's/JMP (jump).md",
+    "control/unconditional branch's/BRA (branch always).md",
+    "control/conditional branch's/compare/CMP.md",
+    "control/conditional branch's/BCC/conditional branch instruction for signed numbers/BGT.md",
+    "control/conditional branch's/BCC/conditional branch instruction for signed numbers/BLE.md",
+    "control/conditional branch's/BCC/conditional branch instruction for signed numbers/BLT.md",
+    "Pasted image 20241026082158.png",
+    "control/conditional branch's/BCC/conditional branch instruction depending on single ccr flag/BPL.md",
+    "IMG_1212.jpg",
+    "control/conditional branch's/BCC/conditional branch instruction depending on single ccr flag/Pasted image 20241025221524.png",
+    "control/conditional branch's/BCC/conditional branch instruction for unsigned numbers",
+    "control/conditional branch's/BCC/conditional branch instruction for signed numbers",
+    "control/conditional branch's/BCC/conditional branch instruction depending on single ccr flag",
+    "control/conditional branch's/compare",
+    "control/conditional branch's/Pasted image 20241025201340.png",
+    "control/conditional branch's/Pasted image 20241025203017.png",
+    "Pasted image 20241025201832.png",
+    "control/conditional branch's/Pasted image 20241025200633.png",
+    "control/unconditional branch's/Pasted image 20241025192423.png",
+    "Untitled.canvas",
+    "control/conditional branch's/BCC",
+    "number systems",
+    "control/implementations",
+    "control/unconditional branch's",
+    "control/conditional branch's",
+    "control"
+  ]
+}
