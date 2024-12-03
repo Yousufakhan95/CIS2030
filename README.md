@@ -16,7 +16,7 @@ These notes are organized as an [Obsidian](https://obsidian.md/) vault. Obsidian
 ### 2. **Clone the Repository**  
 Use Git to clone this repository to your local machine.  
 ```bash
-[git clone https://github.com/yourusername/CIS2030-notes.git](https://github.com/Yousufakhan95/CIS2030.git)
+git clone https://github.com/Yousufakhan95/CIS2030.git
 ```
 
 ### 3. **Open the Notes in Obsidian**  
@@ -38,7 +38,7 @@ Contributions to improve the notes are welcome! Here’s how you can do it:
 1. Fork the repository to your own GitHub account.  
 2. Clone the forked repository to your local machine:  
    ```bash
-   git clone [https://github.com/yourusername/CIS2030-notes.git](https://github.com/Yousufakhan95/CIS2030.git)
+   git clone https://github.com/Yousufakhan95/CIS2030.git
    ```
 3. Add or modify files in the repository. Make sure they follow the Markdown format and integrate well with the existing Obsidian vault.  
 4. Commit your changes:  
